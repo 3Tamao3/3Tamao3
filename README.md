@@ -4,5 +4,5 @@
 Welcome to my profile!
 My name is Rene/Tamao
 
-##About Myself
+**About Myself**
 
