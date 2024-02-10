@@ -7,7 +7,7 @@ I am super excited to learn and explore everything this field has to offer!!!
 Let's learn and code together! :D
 
 <h3 align="left">Languages / Tools -></h3>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
 <h3 align="left">OS -></h3>
 
 <h3 align="left">Interests -></h3>
