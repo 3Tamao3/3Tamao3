@@ -42,3 +42,7 @@ Let's learn and code together! :D
 <h3 align="left">Contact-></h3>
 
 <p align="left">  </p>
+
+<a href="https://example.com/ubuntu_picture.jpg">
+  <img src="https://example.com/ubuntu_picture.jpg" width="40" height="40" alt="Ubuntu Logo">
+</a>
