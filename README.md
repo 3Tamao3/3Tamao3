@@ -13,7 +13,7 @@ Let's learn and code together! :D
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40 background-color: transparent"/> </a>
 
 </p>
 
@@ -47,3 +47,4 @@ Let's learn and code together! :D
   <img src="https://imgs.search.brave.com/Y9FByQvmuzTlLrVo3_TUEiqm276tAqLfKtp4jKyglxc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5zaW1pbGFycG5n/LmNvbS92ZXJ5LXRo/dW1ibmFpbC8yMDIx/LzA5L1VidW50dS1s/b2dvLW9uLXRyYW5z/cGFyZW50LWJhY2tn/cm91bmQtUE5HLnBu/Zw" width="40" height="40" alt="Ubuntu Logo">
 </a>
 
+[![Ubuntu Logo](https://imgs.search.brave.com/Y9FByQvmuzTlLrVo3_TUEiqm276tAqLfKtp4jKyglxc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5zaW1pbGFycG5n/LmNvbS92ZXJ5LXRo/dW1ibmFpbC8yMDIx/LzA5L1VidW50dS1s/b2dvLW9uLXRyYW5z/cGFyZW50LWJhY2tn/cm91bmQtUE5HLnBu/Zw)](https://imgs.search.brave.com/Y9FByQvmuzTlLrVo3_TUEiqm276tAqLfKtp4jKyglxc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5zaW1pbGFycG5n/LmNvbS92ZXJ5LXRo/dW1ibmFpbC8yMDIx/LzA5L1VidW50dS1s/b2dvLW9uLXRyYW5z/cGFyZW50LWJhY2tn/cm91bmQtUE5HLnBu/Zw)
