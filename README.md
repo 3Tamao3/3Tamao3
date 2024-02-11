@@ -2,8 +2,8 @@
 
 <h3 align="left">About Myself -></h3>
 
-My name is Rene/Tamao! I am just beginning my journey in the world of software development.
-I am super excited to learn and explore everything this field has to offer!!! :D
+<h4>My name is Rene/Tamao! I am just beginning my journey in the world of software development.
+I am super excited to learn and explore everything this field has to offer!!! :D</h4>
 
 <h3 align="left">Languages / Tools -></h3>
 
