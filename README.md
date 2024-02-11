@@ -29,7 +29,7 @@ Let's learn and code together! :D
 
 <h3 align="left">Interests -></h3>
 
-<p align="left"> :video_game: Games  <br> :desktop_computer: Coding  </p>
+<p align="left"> :video_game:Games  <br> :desktop_computer:Coding  </p>
 
 <h3 align="left">Learning -></h3>
 
@@ -47,5 +47,5 @@ Let's learn and code together! :D
 
 <h3 align="left">Contact-></h3>
 
-<p align="left"> E-Mail :incoming_envelope:: reneozbay3@gmail.com </p>
+<p align="left"> :incoming_envelope:E-Mail: reneozbay3@gmail.com </p>
 
