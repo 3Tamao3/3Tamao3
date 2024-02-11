@@ -29,7 +29,7 @@ Let's learn and code together! :D
 
 <h3 align="left">Interests -></h3>
 
-<p align="left"> Games :video_game: <br> Coding :desktop_computer: </p>
+<p align="left"> :video_game: Games  <br> :desktop_computer: Coding  </p>
 
 <h3 align="left">Learning -></h3>
 
