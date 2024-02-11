@@ -47,5 +47,5 @@ Let's learn and code together! :D
 
 <h3 align="left">Contact-></h3>
 
-<p align="left">  </p>
+<p align="left"> E-Mail :incoming_envelope:: reneozbay3@gmail.com </p>
 
