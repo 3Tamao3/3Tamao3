@@ -29,7 +29,7 @@ Let's learn and code together! :D
 
 <h3 align="left">Interests -></h3>
 
-<p align="left">  </p>
+<p align="left"> :joystick: </p>
 
 <h3 align="left">Learning -></h3>
 
