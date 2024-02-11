@@ -50,5 +50,5 @@ I am super excited to learn and explore everything this field has to offer!!! :D
 
 <p align="left">
   :incoming_envelope: E-Mail: <a href="mailto:reneozbay3@gmail.com">reneozbay3@gmail.com</a> <br>
-  :briefcase: LinkedIn: <a href="https://www.linkedin.com/in/rene-ozbay">Rene Özbay</a>
+  :briefcase: LinkedIn: <a href="[https://www.linkedin.com/in/rene-ozbay](https://www.linkedin.com/in/rene-%C3%B6zbay-17b263232/)https://www.linkedin.com/in/rene-%C3%B6zbay-17b263232/">Rene Özbay</a>
 </p>
