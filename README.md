@@ -47,5 +47,5 @@
 
 <p align="left"><h4>
   :incoming_envelope: E-Mail: <a href="mailto:reneozbay3@gmail.com">reneozbay3@gmail.com</a> <br>
-  :briefcase: LinkedIn: <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAADoO8y8B0fcGt__SekAyC2uux-gbqwGDZPM&keywords=rene%20%C3%B6zbay&origin=RICH_QUERY_SUGGESTION&position=0&searchId=66cf4262-cd7d-4819-8664-47aa99061682&sid=1JE&spellCorrectionEnabled=false">Rene Özbay</a>
+  </a>
 </h4></p>
