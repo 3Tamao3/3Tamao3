@@ -2,7 +2,7 @@
 
 <h3 align="left">About Myself -></h3>
 
-<h4>My name is Rene/Tamao! I am super excited to learn and explore everything!!! :D</h4>
+<h4>My name is Rene/Tamao! I am super excited to learn and explore everything in the world of programming!!! :D</h4>
 
 <h3 align="left">Languages / Tools -></h3>
 
