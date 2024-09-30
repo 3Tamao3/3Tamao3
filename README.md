@@ -2,7 +2,7 @@
 
 ### About Myself -> 
 <li>
- <b>Name:</b> Rene</li>
+ <br><b>Name:</b> Rene</li>
 </li>
 <li>
 <b>Loves:</b> Anime, Hardstyle Music, Games, Tech 
