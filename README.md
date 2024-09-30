@@ -8,7 +8,7 @@
 <b>Loves:</b> Anime, Hardstyle Music, Games, Tech 
 </li>
 <li>
-<b>Working @:</b> ???
+<b>Working @:</b> 404
 </li>
 
 ## Languages / Tools ->
