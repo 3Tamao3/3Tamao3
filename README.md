@@ -11,9 +11,9 @@
    <b>Working @:</b> 404
 </li>
 
-## Languages / Tools ->
+### Languages / Tools ->
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,py,mysql,git,github,vscode,vim&perline=4)](https://skillicons.dev)
 
-## OS ->
+### OS ->
 
 [![My Skills](https://skillicons.dev/icons?i=windows,linux&perline=4)](https://skillicons.dev)
