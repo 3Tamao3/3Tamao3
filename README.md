@@ -2,18 +2,13 @@
 
 ## About Myself ->
 <li>
- <b>Name:</b> Sarah</li>
-<li>
-<b>Fursona:</b> Snow Fox
+ <b>Name:</b> Rene</li>
 </li>
 <li>
-<b>Loves:</b> anime, osu, rhythm games
+<b>Loves:</b> Anime, Hardstyle Music, Games, Tech 
 </li>
 <li>
-<b>Gender:</b> she/her/Female
-</li>
-<li>
-<b>LastFM:</b> https://scrobble.egirl.ing
+<b>Working @:</b> ???
 </li>
 
 ## Languages / Tools ->
