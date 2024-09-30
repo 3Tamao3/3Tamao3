@@ -2,13 +2,13 @@
 
 ### About Myself -> 
 <li>
-   <b>Name:</b> Rene/Tamao</li>
+   <b>Name: Rene/Tamao </b>
 </li>
 <li>
-   <b>Loves:</b> Anime, Hardstyle Music, Games, Tech, ASCII Art
+   <b>Loves: Anime, Hardstyle Music, Games, Tech, ASCII Art </b>
 </li>
 <li>
-   <b>Working @:</b> ERROR 404
+   <b>Working @: ERROR 404 </b>
 </li>
 <li>
    <b>Dark Mode <3</b>
