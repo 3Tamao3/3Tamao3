@@ -16,6 +16,7 @@
 
 ### Languages / Tools ->
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,py,mysql,git,github,vscode,vim&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,py,mysql,git,github,vscode,vim&perline=4)](https://skillicons.dev)
 
 ### OS ->
 
