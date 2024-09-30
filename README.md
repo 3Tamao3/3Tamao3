@@ -13,7 +13,7 @@ Name: Tamao/Rene
 
 ## Interests ->
 
-<p align="left"><h4> :video_game:Games  <br> :desktop_computer:Coding  </h4></p>
+:video_game:Games <br> :desktop_computer:Coding
 
 
  </p>
