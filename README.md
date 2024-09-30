@@ -1,6 +1,6 @@
 # Ｗｅｌｃｏｍｅ⠀ｔｏ ⠀ｍｙ ⠀ｐｒｏｆｉｌｅ
 
-<h2> About Myself -> </h2>
+ About Myself -> 
 <li>
  <b>Name:</b> Rene</li>
 </li>
