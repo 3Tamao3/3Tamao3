@@ -1,6 +1,6 @@
 # V2VsY29tZSBUbyBNeSBQcm9maWxl<br><br>//Decode: "Welcome To My Profile!"
 
-<h3 align="left">About Myself -></h3>
+## About Myself ->
 
 <h4>My name is Rene/Tamao! I am super excited to learn and explore everything in the world of programming!!! :D</h4>
 
