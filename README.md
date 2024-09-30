@@ -5,7 +5,7 @@
 Name: Tamao/Rene
 
 ## Languages / Tools ->
-[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,css)](https://skillicons.dev)
 
 ## OS ->
 
