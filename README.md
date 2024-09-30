@@ -2,16 +2,16 @@
 
 ### About Myself -> 
 <li>
-   <b>Name:</b> Rene/Tamao 
+   <b>Name:</b> Rene/Tamao;
 </li>
 <li>
-   <b>Loves:</b> Anime, Hardstyle Music, Games, Tech, ASCII Art, Dark Mode
+   <b>Loves:</b> Anime, Hardstyle Music, Games, Tech, ASCII Art, Dark Mode;
 </li>
 <li>
-   <b>Working @:</b> ERROR 404 
+   <b>Working @:</b> ERROR 404; 
 </li>
 <li>
-   <b>Wannabe Linux User</b>
+   <b>Wannabe Linux User;</b>
 </li>
 
 ### Languages / Tools ->
