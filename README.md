@@ -2,13 +2,13 @@
 
 ### About Myself -> 
 <li>
- <br><b>Name:</b> Rene</li>
+   <b>Name:</b> Rene</li>
 </li>
 <li>
-<b>Loves:</b> Anime, Hardstyle Music, Games, Tech 
+   <b>Loves:</b> Anime, Hardstyle Music, Games, Tech 
 </li>
 <li>
-<b>Working @:</b> 404
+   <b>Working @:</b> 404
 </li>
 
 ## Languages / Tools ->
