@@ -10,17 +10,3 @@ Name: Tamao/Rene
 ## OS ->
 
 [![My Skills](https://skillicons.dev/icons?i=windows,linux&perline=4)](https://skillicons.dev)
-
-## Interests ->
-
-##:video_game:Games <br> :desktop_computer:Coding
-
-
- </p>
-
-## Contact->
-
-<p align="left"><h4>
-  :incoming_envelope: E-Mail: <a href="mailto:reneozbay3@gmail.com">reneozbay3@gmail.com</a> <br>
-  </a>
-</h4></p>
