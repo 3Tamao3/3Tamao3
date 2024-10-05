@@ -5,7 +5,7 @@
    <b>Name:</b> Rene/Tamao;
 </li>
 <li>
-   <b>Loves:</b> Anime, Russian Hardstyle Music, Games, Tech, ASCII Art, Dark Mode;
+   <b>Loves:</b> Anime, Russian Hardstyle Music, Games, Tech, ASCII Art, Dark Mode, little bit into CyberSec;
 </li>
 <li>
    <b>Working @:</b> ERROR 404; 
