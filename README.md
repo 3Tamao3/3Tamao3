@@ -10,9 +10,6 @@
 <li>
    <b>Working @:</b> ERROR 404; 
 </li>
-<li>
-   <b>Wannabe Linux User;</b>
-</li>
 
 ### Languages / Tools ->
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,py,mysql,php,git,github,vscode,vim&perline=5)](https://skillicons.dev)
