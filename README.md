@@ -12,7 +12,7 @@
 </li>
 
 ### Languages / Tools ->
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,py,mysql,php,git,github,vscode,vim&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,py,mysql,php,git,github,stackoverflow,vscode,vim&perline=5)](https://skillicons.dev)
 
 ### Goals ->
 [![My Skills](https://skillicons.dev/icons?i=java,ts,cpp,bash&perline=5)](https://skillicons.dev)
