@@ -8,7 +8,7 @@
    <b>Loves:</b> Anime, Russian Hardstyle Music, Games, Tech Enthusiast, ASCII Art, Dark High Contrast Themes, CyberSecurity Enthusiast;
 </li>
 <li>
-   <b>Working @:</b> 404; 
+   <b>Working @:</b> 404 :(; 
 </li>
 
 ### Languages / Tools ->
