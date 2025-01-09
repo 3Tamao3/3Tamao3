@@ -7,9 +7,6 @@
 <li>
    <b>Loves:</b> Anime, Russian Hardstyle Music, Games, Tech Enthusiast, ASCII Art, Dark High Contrast Themes, CyberSecurity Enthusiast;
 </li>
-<li>
-   <b>Working @:</b> 404 :(; 
-</li>
 
 ### Tech Stack ->
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,py,mysql,php,git,github,stackoverflow,vscode,vim&perline=5)](https://skillicons.dev)
