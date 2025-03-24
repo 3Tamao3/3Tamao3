@@ -5,7 +5,7 @@
    <b>Name:</b> Rene/Tamao;
 </li>
 <li>
-   <b>Loves:</b> Anime, Russian Hardstyle Music, Games, Tech Enthusiast, ASCII Art, Dark High Contrast Themes, CyberSecurity Enthusiast;
+   <b>Loves:</b> Anime, Russian Hardstyle Music, Games, Tech Enthusiast, Dark High Contrast Themes, CyberSecurity Enthusiast, NeoVim;
 </li>
 
 ### Tech Stack ->
