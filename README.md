@@ -9,7 +9,7 @@
 </li>
 
 ### Tech Stack ->
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,py,mysql,php,git,github,stackoverflow,vscode,neovim&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,py,mysql,git,github,stackoverflow,vscode,neovim&perline=5)](https://skillicons.dev)
 
 ### OS ->
 
