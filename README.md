@@ -13,4 +13,4 @@
 
 ### OS ->
 
-[![My Skills](https://skillicons.dev/icons?i=windows,mint&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mint,windows&perline=4)](https://skillicons.dev)
