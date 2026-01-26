@@ -2,7 +2,7 @@
 
 ### About Myself -> 
 <li>
-   <b>Name:</b> Rene|Tamao;
+   <b>Name:</b> Rene || Tamao;
 </li>
 <li>
    <b>Interests:</b> Anime, Hardstyle Music, Games, Tech;
